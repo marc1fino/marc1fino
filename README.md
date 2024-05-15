@@ -31,8 +31,7 @@
 </p>
 <p>Use <strong>marksfuncs</strong> to calculate and graph mathematical functions with a simple API in Python.</p>
 </div>
-                                                                                      
-</td>
+                                                                                  
 
 <td width="50%">
 <h3 align="center">Marksgeometrys Python Library</h3>
