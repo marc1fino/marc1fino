@@ -22,6 +22,7 @@
 <a href="https://github.com/marc1fino/marksfuncs" target="_blank"><img src="https://i.ibb.co/1byrZdg/marksfuncs.png" width="400" alt="Marksfuncs Python Library"></a>
 <p>
 <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
+<br>
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://pypi.org/project/marksfuncs/" target="_blank">
@@ -42,7 +43,7 @@
 <br>
 <p>
 <a href="https://github.com/marc1fino/marksgeometrys" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://pypi.org/project/marksgeometrys/" target="_blank">
 <img src="https://img.shields.io/pypi/dm/marksfuncs?style=flat-square&logo=dependabot&logoColor=white&logoSize=auto&color=blue">
