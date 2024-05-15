@@ -3,7 +3,6 @@
 </div>
 <img src="https://i.ibb.co/kSpjZgb/brie.png">
 
-[![GitHub followers](https://img.shields.io/github/followers/marc1fino?style=social)](https://github.com/marc1fino)
 ![Discord Shield](https://dcbadge.limes.pink/api/shield/708377162318741537)
 
 ## About me
@@ -20,9 +19,9 @@
 <h3 align="center">Marksfuncs Python Library </h3>
 <div align="center">
 <a href="https://github.com/marc1fino/marksfuncs" target="_blank"><img src="https://i.ibb.co/1byrZdg/marksfuncs.png" width="400" alt="Marksfuncs Python Library"></a>
+<br>
 <p>
 <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
-<br>
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://pypi.org/project/marksfuncs/" target="_blank">
