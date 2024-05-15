@@ -95,9 +95,7 @@
 ### 🎶 &nbsp;Listening on Spotify
 <div align="center">
 <h3 align="center">Playlist:</h3>
-<a href="https://open.spotify.com/playlist/3VpkxLFBpuj17PUF7GB1PQ" target="_blank">
-<img src="https://i.scdn.co/image/ab67706c0000bebbc3b9d03fba367cc64a2ba940" alt="Spotify Playlist" style="width:300px; height:300px;">
-</a>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3VpkxLFBpuj17PUF7GB1PQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&redirect=true)
