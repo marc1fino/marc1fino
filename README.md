@@ -91,6 +91,7 @@
 </a>
 </p>
 <br>
-### 🎶 &nbsp;Listening on Spotify
+
+### ⚙️ &nbsp;Listening on Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&redirect=true)
