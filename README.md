@@ -14,72 +14,73 @@
 ## Cool _projects_
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Marksfuncs Python Library</h3>
-<div align="center">
-<a href="https://github.com/marc1fino/marksfuncs" target="_blank">
-<img src="https://i.ibb.co/1byrZdg/marksfuncs.png" style="max-width:100%; height:auto;" alt="Marksfuncs Python Library">
-</a>
-<br>
-<p>
-<a href="https://github.com/marc1fino/marksfuncs" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://pypi.org/project/marksfuncs/" target="_blank">
-<img src="https://img.shields.io/pypi/dm/marksfuncs?style=flat-square&logo=dependabot&logoColor=white&color=blue">
-</a>
-</p>
-<p>Use <strong>marksfuncs</strong> to calculate and graph mathematical functions with a simple API in Python.</p>
-</div>
-</td>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Marksfuncs Python Library</h3>
+      <div align="center">
+        <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
+          <img src="https://i.ibb.co/1byrZdg/marksfuncs.png" width="400" alt="Marksfuncs Python Library">
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://pypi.org/project/marksfuncs/" target="_blank">
+            <img src="https://img.shields.io/pypi/dm/marksfuncs?style=flat-square&logo=dependabot&logoColor=white&color=blue">
+          </a>
+        </p>
+        <p>Use <strong>marksfuncs</strong> to calculate and graph mathematical functions with a simple API in Python.</p>
+      </div>
+    </td>
 
-<td width="50%">
-<h3 align="center">Marksgeometrys Python Library</h3>
-<div align="center">                                       
-<a href="https://github.com/marc1fino/marksgeometrys" target="_blank">
-<img src="https://i.ibb.co/HXJ8xq7/marksfuncs-1.png" style="max-width:100%; height:auto;" alt="Marksgeometrys Python Library">
-</a>
-<br>
-<p>
-<a href="https://github.com/marc1fino/marksgeometrys" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://pypi.org/project/marksgeometrys/" target="_blank">
-<img src="https://img.shields.io/pypi/dm/marksgeometrys?style=flat-square&logo=dependabot&logoColor=white&color=blue">
-</a>
-</p>
-<p>Use <strong>marksgeometrys</strong> to calculate area or volume of a geometric figure with a simple API in Python.</p>
-</div>
-</td>
-</tr>
+  <td width="50%">
+      <h3 align="center">Marksgeometrys Python Library</h3>
+      <div align="center">                                       
+        <a href="https://github.com/marc1fino/marksgeometrys" target="_blank">
+          <img src="https://i.ibb.co/HXJ8xq7/marksfuncs-1.png" width="400" alt="Marksgeometrys Python Library">
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/marc1fino/marksgeometrys" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://pypi.org/project/marksgeometrys/" target="_blank">
+            <img src="https://img.shields.io/pypi/dm/marksgeometrys?style=flat-square&logo=dependabot&logoColor=white&color=blue">
+          </a>
+        </p>
+        <p>Use <strong>marksgeometrys</strong> to calculate area or volume of a geometric figure with a simple API in Python.</p>
+      </div>
+    </td>
+  </tr>
 </table>
+
 <br>
+
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">MarksAi Discord Bot</h3>
-<div align="center">
-<a href="https://github.com/marc1fino/MarksAi" target="_blank">
-<img src="https://i.ibb.co/C9TqP3f/marksfuncs-2.png" style="max-width:100%; height:auto;" alt="MarksAi Discord Bot">
-</a>
-<p>
-<a href="https://github.com/marc1fino/MarksAi" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://discord.com/oauth2/authorize?client_id=1238487304553762889&permissions=8&scope=bot+applications.commands" target="_blank">
-<img src="https://dcbadge.limes.pink/api/shield/1238487304553762889?bot=true">
-</a>
-</p>
-<p>Use <strong>MarksAi</strong> to use many artificial intelligence commands and options with different AI APIs with a Discord Bot.</p>
-</div>
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">MarksAi Discord Bot</h3>
+        <div align="center">
+          <a href="https://github.com/marc1fino/MarksAi" target="_blank">
+            <img src="https://i.ibb.co/C9TqP3f/marksfuncs-2.png" width="400" alt="MarksAi Discord Bot">
+          </a>
+          <p>
+            <a href="https://github.com/marc1fino/MarksAi" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://discord.com/oauth2/authorize?client_id=1238487304553762889&permissions=8&scope=bot+applications.commands" target="_blank">
+              <img src="https://dcbadge.limes.pink/api/shield/1238487304553762889?bot=true">
+            </a>
+          </p>
+          <p>Use <strong>MarksAi</strong> to use many artificial intelligence commands and options with different AI APIs with a Discord Bot.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-</div>
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
