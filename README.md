@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Marksfuncs Python Library /h3>
+<h3 align="center">Marksfuncs Python Library </h3>
 <div align="center">
 <a href="https://github.com/marc1fino/marksfuncs" target="_blank"><img src="https://i.ibb.co/1byrZdg/marksfuncs.png" width="400" alt="Marksfuncs Python Library"></a>
 <p>
@@ -36,8 +36,7 @@
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Marksgeometrys Python Library/h3>
+<h3 align="center">Marksgeometrys Python Library</h3>
 <div align="center">                                       
 <a href="https://github.com/marc1fino/marksgeometrys" target="_blank"><img src="https://i.ibb.co/HXJ8xq7/marksfuncs-1.png" width="400" alt="Marksgeometrys Python Library"></a>
 <br>
