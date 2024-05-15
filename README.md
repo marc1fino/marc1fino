@@ -4,7 +4,6 @@
 <img src="https://i.ibb.co/kSpjZgb/brie.png">
 
 ![Discord Shield](https://dcbadge.limes.pink/api/shield/708377162318741537)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&redirect=true)
 ## About me
 
 - 🐍 Python developer
@@ -91,3 +90,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marc1fino&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&redirect=true)
