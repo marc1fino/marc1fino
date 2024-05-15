@@ -19,7 +19,7 @@
       <h3 align="center">Marksfuncs Python Library</h3>
       <div align="center">
         <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
-          <img src="https://i.ibb.co/HXJ8xq7/marksfuncs-1.png" width="400" alt="Marksfuncs Python Library">
+          <img src="https://i.ibb.co/1byrZdg/marksfuncs.png" width="400" alt="Marksfuncs Python Library">
         </a>
         <br>
         <p>
