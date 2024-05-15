@@ -96,11 +96,11 @@
 <div align="center">
 <h3 align="center">Playlist:</h3>
 <a href="https://open.spotify.com/playlist/3VpkxLFBpuj17PUF7GB1PQ" target="_blank">
-<img src="https://i.ibb.co/VSZ4VM6/image.png" alt="Spotify Playlist" style="width:300px; height:300px;">
+<img src="https://i.ibb.co/VSZ4VM6/image.png" alt="Spotify Playlist">
 </a>
 </div>
 <div align="center">
 <h3 align="center">Currently Playing:</h3>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&redirect=true)
 </div>
 
