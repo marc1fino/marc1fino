@@ -14,25 +14,25 @@
 ## Cool _projects_
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Marksfuncs Python Library</h3>
-<div align="center">
-<a href="https://github.com/marc1fino/marksfuncs" target="_blank">
-<img src="https://i.ibb.co/1byrZdg/marksfuncs.png" width="400" alt="Marksfuncs Python Library">
-</a>
-<br>
-<p>
-<a href="https://github.com/marc1fino/marksfuncs" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://pypi.org/project/marksfuncs/" target="_blank">
-<img src="https://img.shields.io/pypi/dm/marksfuncs?style=flat-square&logo=dependabot&logoColor=white&logoSize=auto&color=blue">
-</a>
-</p>
-<p>Use <strong>marksfuncs</strong> to calculate and graph mathematical functions with a simple API in Python.</p>
-</div>
-</td>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Marksfuncs Python Library</h3>
+      <div align="center">
+        <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
+          <img src="https://i.ibb.co/1byrZdg/marksfuncs.png" width="400" alt="Marksfuncs Python Library">
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://pypi.org/project/marksfuncs/" target="_blank">
+            <img src="https://img.shields.io/pypi/dm/marksfuncs?style=flat-square&logo=dependabot&logoColor=white&color=blue">
+          </a>
+        </p>
+        <p>Use <strong>marksfuncs</strong> to calculate and graph mathematical functions with a simple API in Python.</p>
+      </div>
+    </td>
 
 <td width="50%">
       <h3 align="center">Marksgeometrys Python Library</h3>
@@ -46,7 +46,7 @@
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://pypi.org/project/marksgeometrys/" target="_blank">
-            <img src="https://img.shields.io/pypi/dm/marksgeometrys?style=flat-square&logo=dependabot&logoColor=white&logoSize=auto&color=blue">
+            <img src="https://img.shields.io/pypi/dm/marksgeometrys?style=flat-square&logo=dependabot&logoColor=white&color=blue">
           </a>
         </p>
         <p>Use <strong>marksgeometrys</strong> to calculate area or volume of a geometric figure with a simple API in Python.</p>
@@ -54,7 +54,6 @@
     </td>
   </tr>
 </table>
-
 <br>
 
 <table>
