@@ -104,4 +104,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&redirect=true)
 </a>
 </div>
-
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=a64eb1)
