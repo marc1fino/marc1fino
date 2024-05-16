@@ -18,8 +18,6 @@
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 <br>
 
-
-
 ## Cool Projects
 <table>
   <tr>
