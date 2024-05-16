@@ -10,28 +10,29 @@
 
 ## Language & Tools
 
-<div style="background:white; padding:10px; display:inline-block; border-radius:5px;">
+<span style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
   <img align="left" alt="Canva" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"/>
-</div>
-<div style="background:white; padding:10px; display:inline-block; border-radius:5px;">
+</span>
+<span style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
   <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</div>
-<div style="background:white; padding:10px; display:inline-block; border-radius:5px;">
+</span>
+<span style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
   <img align="left" alt="DiscordJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"/>
-</div>
-<div style="background:white; padding:10px; display:inline-block; border-radius:5px;">
+</span>
+<span style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
   <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-</div>
-<div style="background:white; padding:10px; display:inline-block; border-radius:5px;">
+</span>
+<span style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
   <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-</div>
-<div style="background:white; padding:10px; display:inline-block; border-radius:5px;">
+</span>
+<span style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
   <img align="left" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-</div>
-<div style="background:white; padding:10px; display:inline-block; border-radius:5px;">
+</span>
+<span style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
   <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-</div>
-<br>
+</span>
+<br clear="left"/>
+<br clear="left"/>
 
 
 ## Cool Projects
