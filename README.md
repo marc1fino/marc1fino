@@ -29,7 +29,7 @@
   <img align="left" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 </div>
 <div style="background:white; padding:10px; display:inline-block; border-radius:5px;">
-  <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 </div>
 <br>
 
