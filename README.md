@@ -93,10 +93,10 @@
 <br>
 
 ### 🎶 &nbsp;Listening on Spotify
-<h3 align="center">Playlist:</h3>
+<h3>Playlist:</h3>
 <a href="https://open.spotify.com/playlist/3VpkxLFBpuj17PUF7GB1PQ" target="_blank">
 <img src="https://i.ibb.co/VSZ4VM6/image.png" alt="Spotify Playlist">
 </a>
-<h3 align="center">Currently Playing:</h3>
+<h3>Currently Playing:</h3>
 [![Spotify](https://marc1fino.vercel.app/api/spotify)](https://open.spotify.com/user/maaaarc)
 </a>
