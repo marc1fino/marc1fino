@@ -96,5 +96,11 @@
 </a>
 </p>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marc1fino&show_icons=true&locale=en&layout=compact" alt="marc1fino" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marc1fino&show_icons=true&locale=en" alt="marc1fino" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marc1fino&" alt="marc1fino" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marc1fino" alt="marc1fino" /></a> </p>
 
