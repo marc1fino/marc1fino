@@ -9,32 +9,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marc1fino" alt="marc1fino" /></a> </p>
 
 ## Language & Tools
-
-<table>
-  <tr>
-    <td align="center" style="background:white; padding:10px;">
-      <img alt="Canva" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"/>
-    </td>
-    <td align="center" style="background:white; padding:10px;">
-      <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    </td>
-    <td align="center" style="background:white; padding:10px;">
-      <img alt="DiscordJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"/>
-    </td>
-    <td align="center" style="background:white; padding:10px;">
-      <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    </td>
-    <td align="center" style="background:white; padding:10px;">
-      <img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-    </td>
-    <td align="center" style="background:white; padding:10px;">
-      <img alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-    </td>
-    <td align="center" style="background:white; padding:10px;">
-      <img alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    </td>
-  </tr>
-</table>
+<img align="left" alt="Canva" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"/>
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="left" alt="DiscordJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"/>
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<br>
 
 
 
