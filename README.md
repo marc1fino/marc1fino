@@ -96,7 +96,4 @@
 </a>
 </p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marc1fino&" alt="marc1fino" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marc1fino" alt="marc1fino" /></a> </p>
 
