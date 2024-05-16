@@ -4,9 +4,6 @@
 <img src="https://i.ibb.co/kSpjZgb/brie.png">
 
 ![Discord Shield](https://dcbadge.limes.pink/api/shield/708377162318741537)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marc1fino&label=Profile%20views&color=0e75b6&style=flat" alt="marc1fino" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marc1fino" alt="marc1fino" /></a> </p>
 
 ## Language & Tools
 <img align="left" alt="Canva" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"/>
@@ -99,3 +96,6 @@
 </a>
 </p>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marc1fino&label=Profile%20views&color=0e75b6&style=flat" alt="marc1fino" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marc1fino" alt="marc1fino" /></a> </p>
