@@ -16,7 +16,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-
+<br>
+## Cool Projects
 <table>
   <tr>
     <td width="50%">
