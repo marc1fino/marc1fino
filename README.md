@@ -9,6 +9,8 @@
 - 🐍 Python developer
 - 📋 JavaScript developer
 - 🟣 [Discord](http://discordapp.com/users/708377162318741537) developer
+## Language & Tools
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## Cool _projects_
 
@@ -91,12 +93,3 @@
 </a>
 </p>
 <br>
-
-### 🎶 &nbsp;Listening on Spotify
-<h3>Playlist:</h3>
-<a href="https://open.spotify.com/playlist/3VpkxLFBpuj17PUF7GB1PQ" target="_blank">
-<img src="https://i.ibb.co/VSZ4VM6/image.png" alt="Spotify Playlist">
-</a>
-<h3>Currently Playing:</h3>
-[<img src="https://novatorem-ten-weld.vercel.app/api/spotify-playing" alt="Currently Playing" width="350"/>]
-</a>
