@@ -47,7 +47,7 @@
         <br>
         <p>
           <a href="https://github.com/marc1fino/marksgeometrys" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://pypi.org/project/marksgeometrys/" target="_blank">
             <img src="https://img.shields.io/pypi/dm/marksgeometrys?style=flat-square&logo=dependabot&logoColor=white&color=blue">
@@ -72,7 +72,7 @@
           </a>
           <p>
             <a href="https://github.com/marc1fino/MarksAi" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+              <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
             </a>
             <a href="https://discord.com/oauth2/authorize?client_id=1238487304553762889&permissions=8&scope=bot+applications.commands" target="_blank">
               <img src="https://dcbadge.limes.pink/api/shield/1238487304553762889?bot=true">
