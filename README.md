@@ -101,6 +101,6 @@
 </div>
 <div align="center">
 <h3 align="center">Currently Playing:</h3>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nod8nxmjpoirt970f1vsf2n2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ikv3r6ulzd2zqisodykw76vtfy&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 </a>
 </div>
