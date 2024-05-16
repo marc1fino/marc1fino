@@ -99,8 +99,8 @@
 <img src="https://i.ibb.co/VSZ4VM6/image.png" alt="Spotify Playlist">
 </a>
 </div>
-<div align="center">
+<p align="center">
 <h3 align="center">Currently Playing:</h3>
 [![Spotify](https://marc1fino.vercel.app/api/spotify)](https://open.spotify.com/user/maaaarc)
 </a>
-</div>
+</p>
