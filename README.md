@@ -92,14 +92,10 @@
 <p align="center">
 <a href="https://github.com/marc1fino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marc1fino&show_icons=true&locale=en&layout=compact&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marc1fino&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marc1fino&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marc1fino&show_icons=true&locale=en&layout=compact" alt="marc1fino" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marc1fino&show_icons=true&locale=en" alt="marc1fino" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marc1fino&" alt="marc1fino" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marc1fino" alt="marc1fino" /></a> </p>
