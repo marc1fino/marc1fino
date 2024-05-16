@@ -2,9 +2,8 @@
 <h1 align="center">Hello, call me <strong> mark.</strong> 👋</h1>
 </div>
 <img src="https://i.ibb.co/kSpjZgb/brie.png">
-<div align=center>
+
 ![Discord Shield](https://dcbadge.limes.pink/api/shield/708377162318741537)
-</div>
 ## About me
 
 - 🐍 Python developer
@@ -94,14 +93,10 @@
 <br>
 
 ### 🎶 &nbsp;Listening on Spotify
-<div align="center">
 <h3 align="center">Playlist:</h3>
 <a href="https://open.spotify.com/playlist/3VpkxLFBpuj17PUF7GB1PQ" target="_blank">
 <img src="https://i.ibb.co/VSZ4VM6/image.png" alt="Spotify Playlist">
 </a>
-</div>
-<p align="center">
 <h3 align="center">Currently Playing:</h3>
 [![Spotify](https://marc1fino.vercel.app/api/spotify)](https://open.spotify.com/user/maaaarc)
 </a>
-</p>
