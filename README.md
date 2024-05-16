@@ -98,5 +98,5 @@
 <img src="https://i.ibb.co/VSZ4VM6/image.png" alt="Spotify Playlist">
 </a>
 <h3>Currently Playing:</h3>
-[![Spotify](https://marc1fino.vercel.app/api/spotify)](https://open.spotify.com/user/maaaarc)
+[<img src="https://novatorem-ten-weld.vercel.app/api/spotify-playing" alt="Currently Playing" width="350"/>]
 </a>
