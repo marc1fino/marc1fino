@@ -2,8 +2,9 @@
 <h1 align="center">Hello, call me <strong> mark.</strong> 👋</h1>
 </div>
 <img src="https://i.ibb.co/kSpjZgb/brie.png">
-
+<div align=center>
 ![Discord Shield](https://dcbadge.limes.pink/api/shield/708377162318741537)
+</div>
 ## About me
 
 - 🐍 Python developer
