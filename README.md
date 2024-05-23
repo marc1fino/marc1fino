@@ -6,7 +6,6 @@
 ![Discord Shield](https://dcbadge.limes.pink/api/shield/708377162318741537)
 
 ## Language & Tools
-<img align="left" alt="Canva" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"/>
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" alt="DiscordJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
