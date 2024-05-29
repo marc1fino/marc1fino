@@ -74,7 +74,7 @@
               <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
             </a>
             <a href="https://discord.com/oauth2/authorize?client_id=1238487304553762889&permissions=8&scope=bot+applications.commands" target="_blank">
-              <img src="https://dcbadge.limes.pink/api/shield/1238487304553762889?bot=true">
+              <img src="">
             </a>
           </p>
           <p>Use <strong>MarksAi</strong> to use many artificial intelligence commands and options with different AI APIs with a Discord Bot.</p>
