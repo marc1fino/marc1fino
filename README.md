@@ -90,8 +90,8 @@
 
 <p align="center">
 <a href="https://github.com/marc1fino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marc1fino&show_icons=true&locale=en&layout=compact&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marc1fino&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcfino&show_icons=true&locale=en&layout=compact&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcfino&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br>
