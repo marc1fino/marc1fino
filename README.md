@@ -13,6 +13,8 @@
 <img align="left" alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 <img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>
+<img align="left" alt="Colab" width="50px" src="https://svgur.com/i/17Ht.svg"/>
+<img align="left" alt="VsCode" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
 <br>
 <br>
 
