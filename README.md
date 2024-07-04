@@ -17,6 +17,7 @@
 <img align="left" alt="VsCode" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"/>
 <img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/forge/forge-original.svg"/>
 <br>
 <br>
 
