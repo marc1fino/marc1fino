@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, call me <strong> mark.</strong> 👋</h1>
+<h1 align="center">Hey there! You can call me **mark.** 👋</h1>
 </div>
 <img src="https://i.ibb.co/kSpjZgb/brie.png">
 
