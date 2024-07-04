@@ -17,7 +17,7 @@
 <img align="left" alt="VsCode" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"/>
 <img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img align="left" alt="Windows" width="200px" src="https://github.com/MinecraftForge/MinecraftForge/blob/1.21.x/docs/assets/Forge_logo.svg"/>
+<img align="left" alt="Windows" width="230px" src="https://github.com/MinecraftForge/MinecraftForge/blob/1.21.x/docs/assets/Forge_logo.svg"/>
 <br>
 <br>
 
