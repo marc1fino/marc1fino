@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-16-year-old student currently studying 4th year of ESO, focused on becoming a Backend + AI Developer.
+16-year-old student currently studying 11th grade, focused on becoming a Backend + AI Developer backed by strong computer science foundations and a technical mastery of robotics.
 
 Passionate about backend development, data science, artificial intelligence, and building real-world projects that combine software, automation, and intelligent systems.
 
