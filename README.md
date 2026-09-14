@@ -87,14 +87,6 @@ Always learning, building, and exploring new technologies 🚀
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fantasticsmarc&theme=gruvbox&utcOffset=8" alt="Stats" width="48%" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![fantasticsmarc trophies](https://github-profile-trophy.vercel.app/?username=fantasticsmarc&theme=flat&row=1&column=6&no-bg=true&no-frame=true)
-
-</div>
-
 ## 😎 Cool Projects
 <table>
   <tr>
