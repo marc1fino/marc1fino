@@ -152,7 +152,6 @@ Always learning, building, and exploring new technologies 🚀
           <p>Use <strong>MarksAi</strong> to use many artificial intelligence commands and options with different AI APIs with a Discord Bot.</p>
         </div>
       </td>
-    </tr>
 
   <td width="50%">
       <h3 align="center">Pokemon Showdown AI</h3>
