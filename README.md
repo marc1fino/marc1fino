@@ -7,13 +7,13 @@
   &nbsp;&nbsp;
   <a href="mailto:marcperezcarrasco2010@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=marcperezcarrasco2010@gmail.com&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" valign="middle"/></a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=fantasticsmarc&style=for-the-badge&color=blue" alt="Views" valign="middle"/>
+  <img src="https://komarev.com/ghpvc/?username=marc1fino&style=for-the-badge&color=blue" alt="Views" valign="middle"/>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fantasticsmarc/fantasticsmarc/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fantasticsmarc/fantasticsmarc/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fantasticsmarc/fantasticsmarc/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marc1fino/marc1fino/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marc1fino/marc1fino/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marc1fino/marc1fino/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ## 👨‍💻 About Me
@@ -75,17 +75,17 @@ Always learning, building, and exploring new technologies 🚀
 ## 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantasticsmarc&theme=gruvbox" alt="GitHub Profile Summary" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marc1fino&theme=gruvbox" alt="GitHub Profile Summary" width="96%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fantasticsmarc&theme=gruvbox" alt="Repos per Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fantasticsmarc&theme=gruvbox" alt="Most Commit Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marc1fino&theme=gruvbox" alt="Repos per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marc1fino&theme=gruvbox" alt="Most Commit Language" width="48%" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fantasticsmarc&theme=gruvbox" alt="Stats" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fantasticsmarc&theme=gruvbox&utcOffset=8" alt="Stats" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marc1fino&theme=gruvbox" alt="Stats" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marc1fino&theme=gruvbox&utcOffset=8" alt="Stats" width="48%" />
 </p>
 
 ## 😎 Cool Projects
@@ -94,12 +94,12 @@ Always learning, building, and exploring new technologies 🚀
     <td width="50%">
       <h3 align="center">Marksfuncs Python Library</h3>
       <div align="center">
-        <a href="https://github.com/fantasticsmarc/marksfuncs" target="_blank">
+        <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
           <img src="https://i.ibb.co/BKXJv6h/marksfuncs3.png" width="400" alt="Marksfuncs Python Library">
         </a>
         <br>
         <p>
-          <a href="https://github.com/fantasticsmarc/marksfuncs" target="_blank">
+          <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
             <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://pypi.org/project/marksfuncs/" target="_blank">
@@ -113,7 +113,7 @@ Always learning, building, and exploring new technologies 🚀
   <td width="50%">
       <h3 align="center">Marksgeometrys Python Library</h3>
       <div align="center">                                       
-        <a href="https://github.com/fantasticsmarc/marksgeometrys" target="_blank">
+        <a href="https://github.com/marc1fino/marksgeometrys" target="_blank">
           <img src="https://i.ibb.co/HXJ8xq7/marksfuncs-1.png" width="400" alt="Marksgeometrys Python Library">
         </a>
         <br>
@@ -139,11 +139,11 @@ Always learning, building, and exploring new technologies 🚀
       <td width="50%">
         <h3 align="center">MarksAi Discord Bot</h3>
         <div align="center">
-          <a href="https://github.com/fantasticsmarc/MarksAi" target="_blank">
+          <a href="https://github.com/marc1fino/MarksAi" target="_blank">
             <img src="https://i.ibb.co/C9TqP3f/marksfuncs-2.png" width="400" alt="MarksAi Discord Bot">
           </a>
           <p>
-            <a href="https://github.com/fantasticsmarc/MarksAi" target="_blank">
+            <a href="https://github.com/marc1fino/MarksAi" target="_blank">
               <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
             </a>
             <a href="https://discord.com/oauth2/authorize?client_id=1238487304553762889&permissions=8&scope=bot+applications.commands" target="_blank">
