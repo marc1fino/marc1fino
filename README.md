@@ -153,7 +153,6 @@ Always learning, building, and exploring new technologies 🚀
         </div>
       </td>
     </tr>
-  </table>
 
   <td width="50%">
       <h3 align="center">Pokemon Showdown AI</h3>
