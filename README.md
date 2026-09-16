@@ -172,29 +172,6 @@ Always learning, building, and exploring new technologies 🚀
   </tr>
 </table>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">MarksAi Discord Bot</h3>
-        <div align="center">
-          <a href="https://github.com/marc1fino/MarksAi" target="_blank">
-            <img src="https://i.ibb.co/C9TqP3f/marksfuncs-2.png" width="400" alt="MarksAi Discord Bot">
-          </a>
-          <p>
-            <a href="https://github.com/marc1fino/MarksAi" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://discord.com/oauth2/authorize?client_id=1238487304553762889&permissions=8&scope=bot+applications.commands" target="_blank">
-              <img src="https://dcbadge.limes.pink/api/shield/1238487304553762889?bot=true">
-            </a>
-          </p>
-          <p>Use <strong>MarksAi</strong> to use many artificial intelligence commands and options with different AI APIs with a Discord Bot.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 <br>
 <br>
 <br>
