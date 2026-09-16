@@ -164,7 +164,7 @@ Always learning, building, and exploring new technologies 🚀
           <a href="https://github.com/marc1fino/pokemon-showdown-ai" target="_blank">
             <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
         </p>
-        <p>Use <strong>marksgeometrys</strong> to calculate area or volume of a geometric figure with a simple API in Python.</p>
+        <p>An AI battle framework for <strong>Pokémon Showdown</strong>strong> featuring rule-based agents, competitive heuristics, local bot tournaments, public ladder play, and reinforcement-learning experiments powered by PPO.</p>
       </div>
     </td>
   </tr>
