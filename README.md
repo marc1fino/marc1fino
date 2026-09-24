@@ -154,7 +154,7 @@ Always learning, building, and exploring new technologies 🚀
       </td>
 
   <td width="50%">
-      <h3 align="center">Pokemon Showdown AI</h3>
+      <h3 align="center">Pokémon Showdown AI</h3>
       <div align="center">                                       
         <a href="https://github.com/marc1fino/pokemon-showdown-ai" target="_blank">
           <img src="https://i.ibb.co/zWCmRms1/Dise-o-sin-t-tulo-3.png" width="400" alt="pokemon">
