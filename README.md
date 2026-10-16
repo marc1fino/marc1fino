@@ -58,9 +58,9 @@ Always learning, building, and exploring new technologies 🚀
 ### 🗄️ Databases
 
 <p>
+  <img alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img alt="MySQL" title="MySQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  <img alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 </p>
 
 ### 📊 Data Science & Machine Learning
