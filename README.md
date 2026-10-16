@@ -33,44 +33,70 @@ I enjoy creating projects that mix creativity and technology, from AI-powered ap
 
 Always learning, building, and exploring new technologies 🚀
 
-## 🛠️ Language & Tools
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="c++" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img align="left" alt="Express" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
-<img align="left" alt="FastAPI" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/>
-<img align="left" alt="DiscordJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"/>
+## 🛠️ Languages & Tools
 
-<img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="left" alt="SQLite" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
+### 💻 Languages & Web
 
-<img align="left" alt="Pandas" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="NumPy" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Scikit Learn" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"/>
-<img align="left" alt="PyTorch" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="TensorFlow" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="OpenCV" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"/>
+<p>
+  <img alt="Python" title="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img alt="PHP" title="PHP" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+  <img alt="C++" title="C++" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="HTML5" title="HTML5" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+</p>
 
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+### ⚙️ Backend & APIs
 
-<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>
-<img align="left" alt="ESP32" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg"/>
+<p>
+  <img alt="Node.js" title="Node.js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img alt="Express" title="Express" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
+  <img alt="FastAPI" title="FastAPI" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/>
+  <img alt="Discord.js" title="Discord.js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"/>
+</p>
 
-<img align="left" alt="Jupyter" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="VS Code" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"/>
+### 🗄️ Databases
 
-<br>
+<p>
+  <img alt="MySQL" title="MySQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+</p>
 
+### 📊 Data Science & Machine Learning
+
+<p>
+  <img alt="NumPy" title="NumPy" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/>
+  <img alt="Pandas" title="Pandas" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
+  <img alt="Scikit-learn" title="Scikit-learn" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img alt="PyTorch" title="PyTorch" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>
+  <img alt="TensorFlow" title="TensorFlow" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>
+  <img alt="OpenCV" title="OpenCV" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"/>
+  <img alt="Jupyter" title="Jupyter" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>
+</p>
+
+### 🧠 AI Platforms
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=simpleicons&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-<br clear="left"/>
+### 🔧 Development Tools
+
+<p>
+  <img alt="Git" title="Git" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+  <img alt="Docker" title="Docker" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img alt="XAMPP" title="XAMPP" width="50px" src="https://cdn.simpleicons.org/xampp/FB7A24"/>
+  <img alt="VS Code" title="VS Code" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+  <img alt="Windows" title="Windows" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"/>
+</p>
+
+### 🤖 Robotics & Embedded Systems
+
+<p>
+  <img alt="Arduino" title="Arduino" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>
+  <img alt="ESP32" title="ESP32" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg"/>
+</p>
 
 ## 📊 Github Stats
 
@@ -84,11 +110,12 @@ Always learning, building, and exploring new technologies 🚀
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marc1fino&theme=gruvbox" alt="Stats" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marc1fino&theme=gruvbox&utcOffset=8" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marc1fino&theme=gruvbox" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marc1fino&theme=gruvbox&utcOffset=8" alt="Productive Time" width="48%" />
 </p>
 
 ## 😎 Cool Projects
+
 <table>
   <tr>
     <td width="50%">
@@ -109,10 +136,9 @@ Always learning, building, and exploring new technologies 🚀
         <p>Use <strong>marksfuncs</strong> to calculate and graph mathematical functions with a simple API in Python.</p>
       </div>
     </td>
-
-  <td width="50%">
+    <td width="50%">
       <h3 align="center">Marksgeometrys Python Library</h3>
-      <div align="center">                                       
+      <div align="center">
         <a href="https://github.com/marc1fino/marksgeometrys" target="_blank">
           <img src="https://i.ibb.co/HXJ8xq7/marksfuncs-1.png" width="400" alt="Marksgeometrys Python Library">
         </a>
@@ -137,25 +163,24 @@ Always learning, building, and exploring new technologies 🚀
   <tr>
     <td width="50%">
       <h3 align="center">MarksAi Discord Bot</h3>
-        <div align="center">
+      <div align="center">
+        <a href="https://github.com/marc1fino/MarksAi" target="_blank">
+          <img src="https://i.ibb.co/C9TqP3f/marksfuncs-2.png" width="400" alt="MarksAi Discord Bot">
+        </a>
+        <p>
           <a href="https://github.com/marc1fino/MarksAi" target="_blank">
-            <img src="https://i.ibb.co/C9TqP3f/marksfuncs-2.png" width="400" alt="MarksAi Discord Bot">
+            <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <p>
-            <a href="https://github.com/marc1fino/MarksAi" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://discord.com/oauth2/authorize?client_id=1238487304553762889&permissions=8&scope=bot+applications.commands" target="_blank">
-              <img src="https://dcbadge.limes.pink/api/shield/1238487304553762889?bot=true">
-            </a>
-          </p>
-          <p>Use <strong>MarksAi</strong> to use many artificial intelligence commands and options with different AI APIs with a Discord Bot.</p>
-        </div>
-      </td>
-
-  <td width="50%">
+          <a href="https://discord.com/oauth2/authorize?client_id=1238487304553762889&permissions=8&scope=bot+applications.commands" target="_blank">
+            <img src="https://dcbadge.limes.pink/api/shield/1238487304553762889?bot=true">
+          </a>
+        </p>
+        <p>Use <strong>MarksAi</strong> to use many artificial intelligence commands and options with different AI APIs with a Discord Bot.</p>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">Pokémon Showdown AI</h3>
-      <div align="center">                                       
+      <div align="center">
         <a href="https://github.com/marc1fino/pokemon-showdown-ai" target="_blank">
           <img src="https://i.ibb.co/zWCmRms1/Dise-o-sin-t-tulo-3.png" width="400" alt="pokemon">
         </a>
@@ -163,6 +188,7 @@ Always learning, building, and exploring new technologies 🚀
         <p>
           <a href="https://github.com/marc1fino/pokemon-showdown-ai" target="_blank">
             <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
+          </a>
         </p>
         <p>An AI battle framework for <strong>Pokémon Showdown</strong> featuring rule-based agents, competitive heuristics, reinforcement-learning experiments powered by PPO.</p>
       </div>
@@ -231,7 +257,7 @@ Always learning, building, and exploring new technologies 🚀
 | Status | Type | Resource | Link |
 |--------|------|----------|------|
 | ⬜ | 📚 Course | Backend Development & APIs | [Open](https://www.notion.so/freeCodeCamp-Backend-Development-and-APIs-c9f321007e514177b73e813689890095?pvs=21) |
-| ⬜ | 📚 Course | Intro to Deep Learning | [Open](https://www.notion.so/Kaggle-Intro-to-Deep-Learning-4c14f895ceca41d78ad8f04d833a1350?pvs=21) |
+| ⬜ | 📚 Course | Intro to Deep Learning | [Open](https://www.notion.so/Kaggle-Learn-Intro-to-Deep-Learning-4c14f895ceca41d78ad8f04d833a1350?pvs=21) |
 | ⬜ | 💻 Project | AI API (/predict) | [Open](https://www.notion.so/AI-powered-API-predict-endpoint-e9c4eb1f1181474ab75018cfbac1a4c7?pvs=21) |
 | ⬜ | 💻 Project | AI Discord Bot | [Open](https://www.notion.so/Better-Discord-bot-connected-to-AI-API-fd5682209d1e412a8990313c1d8d1414?pvs=21) |
 | ⬜ | 📚 Course | AI Fluency (Anthropic) | [Open](https://www.notion.so/Anthropic-AI-Fluency-Framework-Foundations-343c52eb187480f6b640c40b30bd038c?pvs=21) |
@@ -243,7 +269,7 @@ Always learning, building, and exploring new technologies 🚀
 ### 🧠 Advanced / Projects and Courses
 
 | Status | Type | Project | Link |
-|--------|------|--------|------|
+|--------|------|---------|------|
 | ⬜ | 📚 Course | GitHub Foundations Certification | [Open](https://www.notion.so/Github-Github-Foundations-Certification-343c52eb18748025918ceb8d377e50a5?pvs=21) |
 | ⬜ | 📚 Course | Google Project Management | [Open](https://www.notion.so/Coursera-Google-Project-Management-344c52eb187480c1a2d9e332603cbecf?pvs=21) |
 | ⬜ | 💻 Project | Not Hotdog Detector 🌭 | [Open](https://www.notion.so/Not-Hotdog-Detector-343c52eb187480189bc8c171561f81f7?pvs=21) |
