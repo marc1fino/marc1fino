@@ -7,7 +7,7 @@
   &nbsp;&nbsp;
   <a href="mailto:marcperezcarrasco2010@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=marcperezcarrasco2010@gmail.com&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" valign="middle"/></a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=marc1fino&style=for-the-badge&color=blue" alt="Views" valign="middle"/>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=marc1fino&amp;repo=marc1fino&amp;label=VIEWS&amp;countColor=%230078D7" alt="Views" valign="middle"/>
 </p>
 
 <picture>
