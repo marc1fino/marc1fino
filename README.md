@@ -40,11 +40,10 @@ Always learning, building, and exploring new technologies 🚀
 <p>
   <img alt="Python" title="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img alt="JavaScript" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
   <img alt="PHP" title="PHP" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   <img alt="C++" title="C++" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="TypeScript" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
   <img alt="HTML5" title="HTML5" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </p>
 
 ### ⚙️ Backend & APIs
