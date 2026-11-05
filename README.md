@@ -31,8 +31,6 @@ Currently learning and experimenting with:
 
 I enjoy creating projects that mix creativity and technology, from AI-powered applications to automation tools and interactive systems.
 
-Always learning, building, and exploring new technologies 🚀
-
 ## 🛠️ Languages & Tools
 
 ### 💻 Languages & Web
