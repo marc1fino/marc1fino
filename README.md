@@ -114,7 +114,7 @@ Always learning, building, and exploring new technologies 🚀
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marc1fino&theme=gruvbox&utcOffset=8" alt="Productive Time" width="48%" />
 </p>
 
-## 😎 Cool Projects
+## 📣 Featured Projects
 
 <table>
   <tr>
@@ -269,7 +269,7 @@ Always learning, building, and exploring new technologies 🚀
 
 ---
 
-### 🧠 Advanced / Projects and Courses
+### ✨ Advanced / Projects and Courses
 
 | Status | Type | Project | Link |
 |--------|------|---------|------|
