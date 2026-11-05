@@ -147,6 +147,9 @@ Always learning, building, and exploring new technologies 🚀
           <a href="https://github.com/marc1fino/marksgeometrys" target="_blank">
             <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
           </a>
+          <a href="https://github.com/marc1fino/marksgeometrys-ui" target="_blank">
+            <img src="https://img.shields.io/badge/UI-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
+          </a>
           <a href="https://pypi.org/project/marksgeometrys/" target="_blank">
             <img src="https://img.shields.io/pypi/dm/marksgeometrys?style=flat-square&logo=dependabot&logoColor=white&color=blue">
           </a>
