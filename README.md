@@ -275,8 +275,8 @@ Always learning, building, and exploring new technologies 🚀
 |--------|------|---------|------|
 | ⬜ | 📚 Course | GitHub Foundations Certification | [Open](https://www.notion.so/Github-Github-Foundations-Certification-343c52eb18748025918ceb8d377e50a5?pvs=21) |
 | ⬜ | 📚 Course | Google Project Management | [Open](https://www.notion.so/Coursera-Google-Project-Management-344c52eb187480c1a2d9e332603cbecf?pvs=21) |
-| ⬜ | 💻 Project | Not Hotdog Detector 🌭 | [Open](https://www.notion.so/Not-Hotdog-Detector-343c52eb187480189bc8c171561f81f7?pvs=21) |
-| ⬜ | 💻 Project | Voice Assistant 🗣️ | [Open](https://www.notion.so/Voice-Virtual-Assistant-343c52eb187480519ae6e1ed1a05ba95?pvs=21) |
-| ⬜ | 💻 Project | Multi-Agent AI 🧠 | [Open](https://www.notion.so/Multi-Agent-AI-App-343c52eb187480c2bd1aebb8dd0e7cf6?pvs=21) |
-| ⬜ | 💻 Project | Resume Analyzer ✏️ | [Open](https://www.notion.so/AI-Resume-Analyzer-343c52eb1874804087a1efe3244ac716?pvs=21) |
-| ⬜ | 💻 Project | Air Canvas AI 🖌️ | [Open](https://www.notion.so/Air-Canvas-AI-344c52eb187480b58a84dc8f7e84aeb2?pvs=21) |
+| ⬜ | 💻 Project | Not Hotdog Detector | [Open](https://www.notion.so/Not-Hotdog-Detector-343c52eb187480189bc8c171561f81f7?pvs=21) |
+| ⬜ | 💻 Project | Voice Assistant | [Open](https://www.notion.so/Voice-Virtual-Assistant-343c52eb187480519ae6e1ed1a05ba95?pvs=21) |
+| ⬜ | 💻 Project | Multi-Agent AI | [Open](https://www.notion.so/Multi-Agent-AI-App-343c52eb187480c2bd1aebb8dd0e7cf6?pvs=21) |
+| ⬜ | 💻 Project | Resume Analyzer | [Open](https://www.notion.so/AI-Resume-Analyzer-343c52eb1874804087a1efe3244ac716?pvs=21) |
+| ⬜ | 💻 Project | Air Canvas AI | [Open](https://www.notion.so/Air-Canvas-AI-344c52eb187480b58a84dc8f7e84aeb2?pvs=21) |
