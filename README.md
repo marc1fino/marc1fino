@@ -199,11 +199,6 @@ I enjoy creating projects that mix creativity and technology, from AI-powered ap
   </tr>
 </table>
 
-<br>
-<br>
-<br>
-<br>
-
 ## 🚀 AI + Backend Roadmap
 
 > 📍 [View full interactive roadmap in Notion](https://www.notion.so/Roadmap-IA-Backend-343c52eb1874805da29bda8a3989d711?pvs=21)
