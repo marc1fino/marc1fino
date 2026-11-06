@@ -126,6 +126,9 @@ I enjoy creating projects that mix creativity and technology, from AI-powered ap
           <a href="https://github.com/marc1fino/marksfuncs" target="_blank">
             <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
           </a>
+          <a href="https://github.com/marc1fino/marksfuncs-ui" target="_blank">
+            <img src="https://img.shields.io/badge/UI-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
+          </a>
           <a href="https://pypi.org/project/marksfuncs/" target="_blank">
             <img src="https://img.shields.io/pypi/dm/marksfuncs?style=flat-square&logo=dependabot&logoColor=white&color=blue">
           </a>
